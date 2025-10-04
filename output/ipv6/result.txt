@@ -1,9 +1,8 @@
 🕘️更新时间,#genre#
-2025-10-01 19:42:26,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
+2025-10-04 19:38:30,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
 
 📺央视频道,#genre#
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
-CCTV-7,https://cc06.tv12.xyz/8.m3u8$订阅源
 CCTV-8,https://cc06.tv12.xyz/9.m3u8$订阅源
 CCTV-9,https://cc06.tv12.xyz/10.m3u8$订阅源
 CCTV-10,https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd$订阅源
@@ -25,7 +24,6 @@ CCTV-14,https://cc06.tv12.xyz/15.m3u8$订阅源
 CCTV-15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15$订阅源
 CCTV-15,https://cc06.tv12.xyz/16.m3u8$订阅源
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
-CCTV-17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1756084903216$订阅源
 CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 
 📡卫视频道,#genre#
@@ -67,14 +65,11 @@ CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 青海卫视,https://cc06.tv12.xyz/97.m3u8$订阅源
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
 山东卫视,https://cc06.tv12.xyz/101.m3u8$订阅源
-山西卫视,http://cc02.tv12.xyz/8.m3u8$订阅源
 山西卫视,https://cc06.tv12.xyz/107.m3u8$订阅源
 陕西卫视,https://cc06.tv12.xyz/106.m3u8$订阅源
 四川卫视,https://cc06.tv12.xyz/99.m3u8$订阅源
 深圳卫视,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen$订阅源
 深圳卫视,https://cc06.tv12.xyz/108.m3u8$订阅源
-西藏卫视,http://cc02.tv12.xyz/9.m3u8$订阅源
 西藏卫视,https://cc06.tv12.xyz/112.m3u8$订阅源
-新疆卫视,http://cc02.tv12.xyz/10.m3u8$订阅源
 新疆卫视,https://cc06.tv12.xyz/109.m3u8$订阅源
 云南卫视,https://cc06.tv12.xyz/114.m3u8$订阅源
